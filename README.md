@@ -2,4 +2,4 @@
 
 An introduction to computer science university course using Scheme.
 
-# Daisy World Simulations
+# Modeling Daisy World Project
